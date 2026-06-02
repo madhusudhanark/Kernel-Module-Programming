@@ -1,0 +1,5 @@
+notes 
+
+uart0 is mapped to ttyS0
+uart1 is mapped to ttyS1
+bluetooth module is conncted to uart1
